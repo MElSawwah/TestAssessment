@@ -1,7 +1,7 @@
-import io.cucumber.java.en.*;
-import org.openqa.selenium.*;
-import org.openqa.selenium.chrome.*;
-import static org.junit.Assert.*;
+import io.cucumber.java.en;
+import org.openqa.selenium;
+import org.openqa.selenium.chrome;
+import static org.junit.Assert;
 
 public class SubscriptionPackagesStepDefs {
   private WebDriver driver;
